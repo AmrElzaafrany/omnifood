@@ -8,4 +8,4 @@ Built responsive restaurant Website for food delivery service using HTML, CSS wi
 
 # How To Run
 
-click here
+[Click Here](https://amrelzaafrany.github.io/omnifood/)
