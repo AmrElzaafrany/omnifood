@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4a04662-ab1e-4733-a2e0-4e8a8ee77c13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/css/img/back-customers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/css/img/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/css/queries.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/app-iPhone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/berlin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/customer-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/customer-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/customer-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/download-app-android.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/download-on-app-store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/lisbon-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/london.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/san-francisco.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/css/7.1 Grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/js/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592511908760</updated>
-      <workItem from="1592511912142" duration="3880000" />
+      <workItem from="1592511912142" duration="4171000" />
     </task>
     <servers />
   </component>
